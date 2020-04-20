@@ -1,0 +1,21 @@
+.joke-container{
+  border: red solid;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  font-family: 'Dosis', sans-serif;
+  background-color: orange;
+  width:35%;
+  height:35%;
+  position: absolute;
+  left:32%;
+  top:25%
+}
+
+.button{
+  width:25%;
+  align-self: center;
+  font-family: 'Dosis', sans-serif;
+  background-color: red;
+
+}
